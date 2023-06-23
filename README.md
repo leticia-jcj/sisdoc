@@ -16,6 +16,7 @@ Detalhar como um usuário pode instalar e usar o sistema
  - Next
  - Redux saga
  - JavaScript
+ - teste
  - Emotion
 
  ### Back-end
